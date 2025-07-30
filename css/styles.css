@@ -33,13 +33,13 @@ a {
 .employee {
   background-color: #ffffff;
 }
-.contact-elem {
+.contact-list a {
   color: #434455;
 }
-.contact-elem:hover {
+.contact-list a:hover {
   color: #404bbf;
 }
-.contact-elem:focus {
+.contact-list a:focus {
   color: #404bbf;
 }
 

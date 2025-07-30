@@ -80,7 +80,11 @@ h3 {
 }
 
 footer p {
-  color: #e7e9fc;
+  color: #f4f4fd;
+}
+
+footer a {
+  color: #f4f4fd;
 }
 
 footer {

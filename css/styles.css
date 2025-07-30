@@ -43,7 +43,7 @@ a {
   color: #404bbf;
 }
 
-.header-1 {
+.header-one {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -52,7 +52,7 @@ a {
   letter-spacing: 0.02em;
 }
 
-.header-2 {
+.header-two {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -62,7 +62,7 @@ a {
   text-transform: capitalize;
 }
 
-.header-3 {
+.header-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -131,6 +131,6 @@ a {
   letter-spacing: 0.54px;
   color: #4d5ae5;
 }
-.employee-1 {
+.employee {
   background-color: #ffffff;
 }

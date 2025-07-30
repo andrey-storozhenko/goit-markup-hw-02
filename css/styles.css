@@ -30,7 +30,12 @@ a {
 .contact-list {
   font-style: normal;
 }
-
+.employee {
+  background-color: #ffffff;
+}
+.contact-elem {
+  color: #434455;
+}
 .contact-elem:hover {
   color: #404bbf;
 }

@@ -1,0 +1,101 @@
+body {
+  font-family: 'Roboto', 'Arial', sans-serif;
+  background-color: white;
+  letter-spacing: 0.32px;
+  line-height: 1.5;
+  color: #2e2f42;
+}
+
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+
+.nav-list a {
+  font-weight: 500;
+}
+.nav-list a:hover {
+  color: #404bbf;
+}
+.nav-list li:active {
+  color: #404bbf;
+  text-decoration: underline;
+}
+
+address a {
+  color: #434455;
+  font-style: normal;
+}
+address a:hover {
+  color: #404bbf;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  color: #ffffff;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.solutions-section {
+  background-color: #2e2f42;
+}
+.solutions-section button {
+  font-weight: 500;
+  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+}
+.solutions-section button:hover {
+  background-color: #404bbf;
+}
+
+.benefits-section p {
+  color: #434455;
+}
+.benefits-section {
+  background-color: white;
+}
+
+.team-section {
+  background-color: #f4f4fd;
+}
+.team-section p {
+  color: #434455;
+}
+
+.portfolio-section p {
+  color: #434455;
+}
+
+.portfolio-section {
+  background-color: #e7e9fc;
+}
+
+footer p {
+  color: #e7e9fc;
+}
+
+footer {
+  background-color: #2e2f42;
+}
+
+.blue-marker {
+  color: #4d5ae5;
+}
+
+.logo {
+  font-family: 'Raleway', 'Arial', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: 0.54px;
+}

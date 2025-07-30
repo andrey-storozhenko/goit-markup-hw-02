@@ -13,32 +13,32 @@ a {
   text-decoration: none;
 }
 
-.nav-list a {
+.nav-elem {
   font-weight: 500;
   color: #2e2f42;
 }
-.nav-list a:hover {
+.nav-elem:hover {
   color: #404bbf;
 }
-.nav-list a:focus {
+.nav-elem:focus {
   color: #404bbf;
 }
-.nav-list li:active {
+.nav-elem:active {
   color: #404bbf;
   text-decoration: underline;
 }
-
-address a {
+.contact-list {
   font-style: normal;
 }
-address a:hover {
+
+.contact-elem:hover {
   color: #404bbf;
 }
-address a:focus {
+.contact-elem:focus {
   color: #404bbf;
 }
 
-.solutions-h1 {
+.header-1 {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -106,19 +106,15 @@ address a:focus {
   color: #f4f4fd;
 }
 
-.footer-section a {
-  color: #f4f4fd;
-}
-
 .footer-section {
   background-color: #2e2f42;
 }
 
-.blue-marker {
-  color: #4d5ae5;
-}
 .navy-marker {
   color: #2e2f42;
+}
+.white-marker {
+  color: #f4f4fd;
 }
 
 .logo {
